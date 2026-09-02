@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
