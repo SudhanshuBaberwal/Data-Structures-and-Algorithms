@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1544-make-the-string-great](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1544-make-the-string-great) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
