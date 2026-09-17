@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0071-simplify-path) |
 | [1544-make-the-string-great](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1544-make-the-string-great) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
