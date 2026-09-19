@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0441-arranging-coins) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3870-count-commas-in-range) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
