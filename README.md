@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0071-simplify-path) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1544-make-the-string-great) |
+| [3498-reverse-degree-of-a-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
