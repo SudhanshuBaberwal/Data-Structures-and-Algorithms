@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0441-arranging-coins) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3870-count-commas-in-range) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3524-find-x-value-of-array-i](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3904-smallest-stable-index-ii) |
