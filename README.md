@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
+| [0078-subsets](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0456-132-pattern](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0456-132-pattern) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 ## Greedy
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 ## Recursion
 |  |
 | ------- |
