@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
