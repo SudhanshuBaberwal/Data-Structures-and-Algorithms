@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0509-fibonacci-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3524-find-x-value-of-array-i) |
 ## Ordered Set
@@ -161,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
