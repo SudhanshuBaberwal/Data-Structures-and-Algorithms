@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [0784-letter-case-permutation](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0784-letter-case-permutation) |
 | [0856-score-of-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
+| [0784-letter-case-permutation](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0784-letter-case-permutation) |
 ## Greedy
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0784-letter-case-permutation) |
 ## Recursion
 |  |
 | ------- |
