@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0784-letter-case-permutation](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0784-letter-case-permutation) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0784-letter-case-permutation](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0784-letter-case-permutation) |
 ## Recursion
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
