@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
