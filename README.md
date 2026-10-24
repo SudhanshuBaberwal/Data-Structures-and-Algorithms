@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0784-letter-case-permutation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -333,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0707-design-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
