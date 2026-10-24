@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -328,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3886-sum-of-sortable-integers) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
