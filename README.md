@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
