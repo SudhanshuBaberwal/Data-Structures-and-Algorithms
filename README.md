@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
