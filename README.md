@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String Matching
