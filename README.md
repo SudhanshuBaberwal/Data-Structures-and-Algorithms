@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0784-letter-case-permutation](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0784-letter-case-permutation) |
 ## Recursion
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
