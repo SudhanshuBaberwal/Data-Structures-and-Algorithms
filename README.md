@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0784-letter-case-permutation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0456-132-pattern) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
