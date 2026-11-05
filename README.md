@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1019-next-greater-node-in-linked-list) |
 | [1254-number-of-closed-islands](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
