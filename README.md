@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1019-next-greater-node-in-linked-list) |
 | [1254-number-of-closed-islands](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [1254-number-of-closed-islands](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String Matching
 |  |
@@ -415,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
