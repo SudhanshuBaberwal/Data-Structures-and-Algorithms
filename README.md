@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0456-132-pattern) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Linked List
 |  |
