@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3524-find-x-value-of-array-i](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Geometry
 |  |
 | ------- |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -431,4 +436,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
