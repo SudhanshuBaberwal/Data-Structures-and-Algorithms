@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
