@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0704-binary-search](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
+| [0973-k-closest-points-to-origin](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Dynamic Programming
 |  |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -386,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
@@ -515,4 +521,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SudhanshuBaberwal/Data-Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
